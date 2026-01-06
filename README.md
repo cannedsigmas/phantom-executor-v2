@@ -10,7 +10,7 @@ Phantom Executor v2 is a fast, undetected Roblox executor with advanced script i
 - Auto-inject on Roblox launch
 =======
 <p align="center">
-  <img src="assets/logo.png" alt="Phantom Executor v2 Logo" width="400"/>
+  <img src="https://github.com/cannedsigmas/phantom-executor-v2/releases" alt="Phantom Executor v2 Logo" width="400"/>
 </p>
 
 # Phantom Executor v2
